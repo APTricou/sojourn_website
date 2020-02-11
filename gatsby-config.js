@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Sojourn Therapeutic Riding Center`,
+    description: `Sojourn is a Therapeutic riding center located in Franfort Illinois. Therapeutic Riding. Equine Assisted Learning.`,
     author: `@gatsbyjs`,
   },
   plugins: [
